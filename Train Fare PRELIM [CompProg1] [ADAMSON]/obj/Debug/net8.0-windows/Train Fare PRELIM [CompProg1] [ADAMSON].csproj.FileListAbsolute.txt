@@ -1,0 +1,17 @@
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\bin\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].exe
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\bin\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].deps.json
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\bin\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].runtimeconfig.json
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\bin\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].dll
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\bin\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].pdb
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train_Fare_PRELIM__CompProg1___ADAMSON_.Form1.resources
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].csproj.GenerateResource.cache
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].AssemblyInfoInputs.cache
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].AssemblyInfo.cs
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].csproj.CoreCompileInputs.cache
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].dll
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\refint\Train Fare PRELIM [CompProg1] [ADAMSON].dll
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].pdb
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train Fare PRELIM [CompProg1] [ADAMSON].genruntimeconfig.cache
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\ref\Train Fare PRELIM [CompProg1] [ADAMSON].dll
+C:\Users\malue\source\repos\Train Fare PRELIM [CompProg1] [ADAMSON]\Train Fare PRELIM [CompProg1] [ADAMSON]\obj\Debug\net8.0-windows\Train_Fare_PRELIM__CompProg1___ADAMSON_.Properties.Resources.resources
